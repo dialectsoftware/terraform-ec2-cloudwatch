@@ -1,0 +1,13 @@
+# public/private keys
+*.pem
+*.pub
+
+# terraform init
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
